@@ -9,6 +9,6 @@
 
     java -jar target/docker-spring-boot-1.0.0.jar
 
-- 构建 Docker Image：
+- 构建Docker Image：
 
-    mvn package docker:build
+    mvn package docker:build
